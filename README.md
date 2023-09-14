@@ -1,5 +1,5 @@
-# 💫 About Me:
- 👋 Hi, I’m Kyalo.<br>- 👀 I’m interested in software dev.<br>- 🌱 I’m currently learning Python <br>- 💞️ I’m looking to collaborate on new projects<br>- 📫 How to reach me kyalokimeu0@gmail.com
+# About Me:
+Hi, I’m Kyalo.👋 <br>- 👀 I’m interested in software dev.<br>- 🌱 I’m currently learning Python <br>- I’m looking to collaborate on new projects<br>- 📫 How to reach me kyalokimeu0@gmail.com
 
 
 ## 🌐 Socials:
