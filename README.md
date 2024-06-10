@@ -1,6 +1,6 @@
 # About Me:
 Hi, I’m Kyalo.👋 <br>- 👀 I’m interested in software dev.<br>- 🌱 I’m currently learning Python <br>- I’m looking to collaborate on new projects<br>- 📫 How to reach me kyalokimeu0@gmail.com
-
+0758306436
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@vii3ke) 
