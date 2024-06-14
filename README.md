@@ -1,5 +1,5 @@
 # About Me:
-Hi, I’m Kyalo.👋 <br>- 👀 I’m a Backend Software Developer.<br>- 🌱 I’m currently learning C, Python and Javascript.<br>- I’m looking to collaborate on new projects<br>- 📫 How to reach me ![](https://kyalokimeu0@gmail.com)<br/>- Here's my number +254758306436.<br/>
+Hi, I’m Kyalo.👋 <br>- 👀 I’m a Backend Software Developer.<br>- 🌱 I’m currently learning C, Python and Javascript.<br>- I’m looking to collaborate on new projects<br>- 📫 How to reach me ![kyalokimeu0@gmail.com](https://kyalokimeu0@gmail.com)<br/>- Here's my number +254758306436.<br/>
 
 # My main projects:
 1. ![PrintF: ](https://github.com/kyalo3/printf)<br/>
