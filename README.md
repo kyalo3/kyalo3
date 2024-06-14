@@ -2,7 +2,7 @@
 Hi, I’m Kyalo.👋 <br>- 👀 I’m a Backend Software Developer.<br>- 🌱 I’m currently learning C, Python and Javascript.<br>- I’m looking to collaborate on new projects<br>- 📫 How to reach me ![kyalokimeu0@gmail.com](https://kyalokimeu0@gmail.com)<br/>- Here's my number +254758306436.<br/>
 
 # My main projects:
-1. ![PrintF: ](https://github.com/kyalo3/printf)<br/>
+1. ![PrintF: ](https://github.com/kyalo3/printf) Printf<br/>
 2. ![Simple shell:](https://github.com/kyalo3/simple_shell.git)<br/>
 3. ![Monty(C - Stacks, Queues - LIFO, FIFO): ](https://github.com/kyalo3/monty.git)<br/>
 4. ![Sorting_algorithms: ](https://github.com/kyalo3/sorting_algorithms.git)<br/>
