@@ -4,14 +4,15 @@ Hi, I’m Kyalo.👋<br>- 👀 I’m a Backend Software Developer.<br>- 🌱 I�
 # My main projects:
 1. [PrintF:](https://github.com/kyalo3/printf) This project is an implementation of the printf function in the C standard library.<br>
 2. [Simple shell:](https://github.com/kyalo3/simple_shell.git) The program is designed to mimic the abilities of a simple shell.<br>
-3. [Monty (C - Stacks, Queues - LIFO, FIFO):](https://github.com/kyalo3/monty.git) Stacks, Queues - LIFO, FIFO<br>
-4. [Sorting_algorithms:](https://github.com/kyalo3/sorting_algorithms.git) Sorting Algorithms Implementation in C<br>
-5. [AirBnB clone version 1 - The console:](https://github.com/kyalo3/AirBnB_clone.git) AirBnB Clone Command Line Interface<br>
-6. [AirBNB clone version 2 - MySQL:](https://github.com/kyalo3/AirBnB_clone_v2.git)<br>
-7. [AirBNB clone version 2 - Web framework:](https://github.com/kyalo3/AirBnB_clone_v2.git)<br>
-8. [AirBNB clone version 3 - RESTful API:](https://github.com/kyalo3/AirBnB_clone_v3.git)<br>
-9. [AirBNB clone version 4 - Web dynamic:](https://github.com/kyalo3/AirBnB_clone_v4.git)<br>
-10. [Webstack - Portfolio Project:](https://github.com/kevkatam/Food-Donation-App.git)<br>
+3. [Monty (C - Stacks, Queues - LIFO, FIFO):](https://github.com/kyalo3/monty.git) A language interpreter that processes Monty bytecodes, utilizing stack and queue data structures.<br>
+4. [Sorting_algorithms:](https://github.com/kyalo3/sorting_algorithms.git) An implementation of various sorting algorithms in C, including bubble sort, quick sort, and merge sort.<br>
+5. [AirBnB clone version 1 - The console:](https://github.com/kyalo3/AirBnB_clone.git) The first version of an AirBnB clone project focusing on building a command-line interface to manage application data.<br>
+6. [AirBNB clone version 2 - MySQL:](https://github.com/kyalo3/AirBnB_clone_v2.git) This version of the AirBnB clone integrates a MySQL database, enhancing data storage and retrieval capabilities.<br>
+7. [AirBNB clone version 2 - Web framework:](https://github.com/kyalo3/AirBnB_clone_v2.git) Expanding the AirBnB clone to include a web framework, allowing users to interact with the application through a web interface.<br>
+8. [AirBNB clone version 3 - RESTful API:](https://github.com/kyalo3/AirBnB_clone_v3.git) Introduction of a RESTful API to the AirBnB clone, enabling communication between the frontend and backend.<br>
+9. [AirBNB clone version 4 - Web dynamic:](https://github.com/kyalo3/AirBnB_clone_v4.git) The final version of the AirBnB clone, incorporating dynamic content rendering and enhanced user interaction through AJAX.<br>
+10. [Webstack - Portfolio Project:](https://github.com/kevkatam/Food-Donation-App.git) A portfolio project focused on creating a web application for managing food donations, featuring a responsive design and interactive elements.<br>
+
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@alca_9_) 
