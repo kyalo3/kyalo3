@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Brian Kyalo.👋<br>- 👀 I’m a Backend Software Developer.<br>- 🌱 I’m currently learning C, Python and Javascript.<br>- 🌍 UN SDGs Advocate committed to sustainable development and environmental conservation.<br>- 🤝 Open Source Contributor focused on projects that promote sustainability and community-driven innovation.<br>- I’m looking to collaborate on new projects<br>- 📫 How to reach me kyalokimeu0@gmail.com<br>- Here's my number +254758306436.
+Hi, I’m Brian Kyalo.👋<br>- 👀 I’m a Backend Software Developer.<br>- 🌱 I’m currently learning C, Python(Django, Flask) and Javascript.<br>- 🌍 UN SDGs Advocate committed to sustainable development and environmental conservation.<br>- 🤝 Open Source Contributor focused on projects that promote sustainability and community-driven innovation.<br>- I’m looking to collaborate on new projects<br>- 📫 How to reach me kyalokimeu0@gmail.com<br>- Here's my number +254758306436.
 
 # My main projects:
 1. [PrintF:](https://github.com/kyalo3/printf) This project is an implementation of the printf function in the C standard library.<br>
