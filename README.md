@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/kyalo3?style=social)](https://github.com/kyalo3?tab=followers)
 [![X](https://img.shields.io/badge/X-@Kyalo__3-black?style=flat&logo=x&logoColor=white)](https://x.com/Kyalo_3)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-brian2kyalo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/brian2kyalo)
-[![Email](https://img.shields.io/badge/Email-kyalokimeu0@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kyalokimeu0@gmail.com)
+[![Email](https://img.shields.io/badge/Email-kyalokimeu55@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kyalokimeu0@gmail.com)
 
 *Building technology for sustainability, community impact, and civic transparency.*
 
